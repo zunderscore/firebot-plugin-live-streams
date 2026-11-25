@@ -2,7 +2,7 @@
   "name": "firebot-plugin-live-streams",
   "pluginOutputName": "firebot-live-streams",
   "version": "1.0.0",
-  "description": "A Firebot plugin that adds a page with all currently live Firebot streams",
+  "description": "A Firebot plugin that adds a page to the Firebot UI with all currently live Firebot streams",
   "main": "",
   "scripts": {
     "build": "tsdown",
@@ -13,7 +13,7 @@
   "author": "zunderscore",
   "license": "MIT",
   "devDependencies": {
-    "@crowbartools/firebot-types": "^5.67.0-alpha26",
+    "@crowbartools/firebot-types": "^5.67.0",
     "@types/node": "^22.19.21",
     "jest": "^30.1.3",
     "ts-jest": "^29.4.1",
